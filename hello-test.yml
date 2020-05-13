@@ -1,4 +1,4 @@
 server:
   port: 7001
 config:
-  info: 这是version1
+  info: 这是version 2
